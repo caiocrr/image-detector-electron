@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <style>
+      body {
+        background-color: powderblue;
+        margin: 0;
+      }
+      img {
+        width: 100vw;
+        height: 100vh;
+      }
+      img:hover {
+        -webkit-filter: brightness(50%);
+      }
+    </style>
+    <script>
+      function setImageSrc(src) {
+        var img = document.getElementById("img");
+        img.src = src;
+      }
+    </script>
+  </head>
+  <body>
+    <img id="img" src="" />
+  </body>
+</html>
