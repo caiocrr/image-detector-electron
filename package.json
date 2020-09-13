@@ -248,7 +248,7 @@
     "natural-compare": "^1.4.0",
     "nice-try": "^1.0.5",
     "node-abi": "^2.18.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "node-gyp": "^6.1.0",
     "nopt": "^4.0.3",
     "normalize-package-data": "^2.5.0",
